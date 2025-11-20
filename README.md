@@ -1,2 +1,2 @@
 # Simon-Swiftbot
-Simon says on Swiftbot. Uses Swiftbot API
+"Simon Says" on the Swiftbot. Uses Swiftbot API
