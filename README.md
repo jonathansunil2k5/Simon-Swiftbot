@@ -21,7 +21,7 @@ The main game loop is as follows:
 # Bot movement
 Roughly speaking, the relationship between swiftbot units and speed (on a rough, carpet-like surface) can be modelled using:
 
-> <br/>$y=-0.35x^2+0.5x+30$<br/>
+<br/> $y=-0.35x^2+0.5x+30$<br/>
 
 where y is speed in cm/s, and x is swiftbot units. The derivation for this equation can be found on the repository.
 
