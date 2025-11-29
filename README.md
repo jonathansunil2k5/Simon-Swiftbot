@@ -25,7 +25,7 @@ $y=-0.35x^2+0.5x+30$ <br/>
 
 where y is speed in cm/s, and x is swiftbot units. The derivation for this equation can be found on the repository.
 
-In this equation, x = 0, is 100 swiftbot units, and x = 10, is 0 swiftbot units, so we can use f(x) = 10x+100 to convert from swiftbot units into x for the equation.
+In this equation, x = 0, is 100 swiftbot units, and x = 10, is 0 swiftbot units, so we can use $f(x) = 10x+100$ to convert from swiftbot units into x for the equation.
 
 Generally speaking, the swiftbot tends to travel 30cm/s at 100 swiftbot units or x=0.
 In order to make the swiftbot move ~30cm every time, we need to get a speed from the above equation by inputting the correct value for x, then using that speed to calculate time travelled.
