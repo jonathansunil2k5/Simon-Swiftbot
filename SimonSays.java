@@ -132,7 +132,6 @@ public class SimonSays {
 
         //Using f(x) = 10x+100 to determine input x
 
-        level = 10;
         int swiftbotUnits;
         //Assigning swiftbotUnits:
         if (level < 5) swiftbotUnits = 40;
